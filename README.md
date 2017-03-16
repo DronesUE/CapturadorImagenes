@@ -1,0 +1,2 @@
+# CapturadorImagenes
+Capturador de Iamgenes
