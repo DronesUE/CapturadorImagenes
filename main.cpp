@@ -14,6 +14,4 @@ int main(int argc, char *argv[])
     std::cout << "end." << std::endl;
 
     return a.exec();
-
-    //Prueba de modificacion.
 }
